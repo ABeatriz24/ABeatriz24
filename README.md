@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @ABeatriz24
-- 👀 I’m interested in technology
+Como estagiária da área de estratégia e tecnologia na Globo e estudante de Análise e Desenvolvimento de Sistemas na IBMR, estou comprometida em aprimorar minhas habilidades e ampliar meus conhecimentos em tecnologia. Busco constantemente desafios que possam me ajudar a crescer profissionalmente, enquanto contribuo para o sucesso da equipe de forma proativa e colaborativa.
 
 
 <!---
